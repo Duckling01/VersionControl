@@ -32,7 +32,7 @@ namespace UserMaintenance
             var u = new User()
             {
                 LastName = textBox2.Text,
-                FirstName = textbox1.Text
+                FirstName = textBox1.Text
             };
             users.Add(u);
         }
